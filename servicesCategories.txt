@@ -1,0 +1,58 @@
+
+'*Software',
+'*Computer services',
+'*Information technology consultation services',
+
+'*Product research and development service',
+
+'*Logs',
+'*Software or hardware engineering',
+ '*Professional procurement services',
+
+'*Media monitoring service',
+
+'*Information Technology Service Delivery',
+
+ '*Engineering and Research and Technology Based Services',
+'*Product testing',
+'*Software\\n*Development software\\n*Configuration management software\\n*Enterprise application integration software\\n*Graphical user interface development software\\n*Requirements analysis and system architecture software\\n*Web platform development software\\n*Systems integration design',
+
+'*Software\\n*Cloud-based data access and sharing software\\n*Internet cloud storage service\\n*Cloud-based platform as a service\\n*Cloud-based infrastructure as a service\\n*Cloud backup as a service\\n*Cloud storage as a service\\n*Cloud firewalls as a service\\n*Cloud network devices as a service',
+
+'*Industrial optics\\n*Lenses and prisms\\n*Mirrors\\n*Optical filters\\n*Optical domes\\n*Optical device accessories\\n*Miscellaneous optical components\\n*Viewing and observing instruments and accessories\\n*Camera based vision systems for automated data collection\\n*Industry specific software\\n*Satellite image treatment software\\n*Astronomical camera\\n*Infrared IR telescope\\n*Surveillance and detection equipment\\n*Astronomy\\n*Space engineering service',
+
+'*Geographic information system\\n*Forestry\\n*Aerial photography services',
+
+'*Editing services',
+
+'*Information Technology Service Delivery\\n*Cloud-based software as a service\\n*Enterprise resource planning software as a service',
+ '*Information technology consultation services\\n*Information technology IT management services',
+ '*Technology teaching aids and materials',
+
+'*Information retrieval systems',
+'*Writing and translations',
+
+'*Technical writing',
+ '*Analytical or scientific software',
+
+'*Engineering and Research and Technology Based Services\\n*National Defense and Public Order and Security and Safety Services\\n*Military science and research',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
